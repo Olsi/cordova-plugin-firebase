@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/arnesson/cordova-plugin-firebase.svg?branch=master)](https://travis-ci.org/arnesson/cordova-plugin-firebase)
+# Just a fix for the Google Play Services API version and the iOS Bug that shows notifications while the app is in foreground
+
+- - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # cordova-plugin-firebase
 This plugin brings push notifications, analytics, event tracking, crash reporting and more from Google Firebase to your Cordova project!  Android and iOS supported.
